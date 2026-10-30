@@ -2,6 +2,8 @@
 
 Top 1000 words in Arabic
 
+*random order
+
 أكثر 1000 كلمة في اللغة العربية انتشاراً
 
 
