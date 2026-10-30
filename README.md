@@ -3,6 +3,7 @@
 Top 1000 words in Arabic
 
 أكثر 1000 كلمة في اللغة العربية انتشاراً
+*ترتيب الكلمات عشوائي
 
 words Separated by space
 
