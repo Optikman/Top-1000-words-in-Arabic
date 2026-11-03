@@ -1,17 +1,17 @@
 # Top-1000-words-in-Arabic
 
-Top 1000 words in Arabic
-
-*random order
-
-أكثر 1000 كلمة في اللغة العربية انتشاراً
 
 
-*ترتيب الكلمات عشوائي
+# أكثر 1000 كلمة في اللغة العربية انتشاراً
 
-words Separated by space
 
- download:🔽         تحميل
+
+◾ **random order**   / \  **ترتيب الكلمات عشوائي**
+
+◾ words Separated by space 
+
+
+## download:🔽         تحميل
  
 [Arabic_Top1000_words.txt](https://github.com/user-attachments/files/33217599/Arabic_Top1000_words.txt)
 
